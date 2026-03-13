@@ -1,6 +1,6 @@
 {
     "name" : "CRMEB标准版",
-    "appid" : "__UNI__A3F1ED4",
+    "appid" : "__UNI__D5E8480",
     "description" : "CRMEB标准版",
     "versionName" : "5.6.2",
     "versionCode" : 562,
@@ -100,13 +100,13 @@
                     "weixin" : {
                         "__platform__" : [ "ios", "android" ],
                         "appid" : "wx277a269f3d736d67",
-                        "UniversalLinks" : "https://bzapp.crmeb.net/uni-universallinks/__UNI__A3F1ED4/"
+                        "UniversalLinks" : "https://bzapp.crmeb.net/uni-universallinks/__UNI__D5E8480/"
                     }
                 },
                 "share" : {
                     "weixin" : {
                         "appid" : "wx277a269f3d736d67",
-                        "UniversalLinks" : "https://bzapp.crmeb.net/uni-universallinks/__UNI__A3F1ED4/"
+                        "UniversalLinks" : "https://bzapp.crmeb.net/uni-universallinks/__UNI__D5E8480/"
                     }
                 },
                 "push" : {},
@@ -121,7 +121,7 @@
                     "weixin" : {
                         "appid" : "wx277a269f3d736d67",
                         "appsecret" : "bd08741a055c2ecac5826ff1c048464b",
-                        "UniversalLinks" : "https://bzapp.crmeb.net/uni-universallinks/__UNI__A3F1ED4/"
+                        "UniversalLinks" : "https://bzapp.crmeb.net/uni-universallinks/__UNI__D5E8480/"
                     }
                 },
                 "ad" : {},
